@@ -24,8 +24,8 @@ It provides the following features:
 ## Technologies Used
 
 1. **Javascript**
-2. **HTML** : 
-3. **CSS** : 
+2. **HTML** 
+3. **CSS** 
 5. **Google Cloud Text To Speech API** : Text-to-speech conversion for listening to specific text.
 5. **Google Cloud Custom Search API** : Gets images corresponding to words for the user for better visualization.
 
